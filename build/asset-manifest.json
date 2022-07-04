@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/TBB/static/css/main.6b4f7fb4.chunk.css",
+    "main.js": "/TBB/static/js/main.b056ea37.chunk.js",
+    "main.js.map": "/TBB/static/js/main.b056ea37.chunk.js.map",
+    "runtime-main.js": "/TBB/static/js/runtime-main.85fcf99e.js",
+    "runtime-main.js.map": "/TBB/static/js/runtime-main.85fcf99e.js.map",
+    "static/js/2.b78ca2b3.chunk.js": "/TBB/static/js/2.b78ca2b3.chunk.js",
+    "static/js/2.b78ca2b3.chunk.js.map": "/TBB/static/js/2.b78ca2b3.chunk.js.map",
+    "static/js/3.a4410c6b.chunk.js": "/TBB/static/js/3.a4410c6b.chunk.js",
+    "static/js/3.a4410c6b.chunk.js.map": "/TBB/static/js/3.a4410c6b.chunk.js.map",
+    "index.html": "/TBB/index.html",
+    "static/css/main.6b4f7fb4.chunk.css.map": "/TBB/static/css/main.6b4f7fb4.chunk.css.map",
+    "static/js/2.b78ca2b3.chunk.js.LICENSE.txt": "/TBB/static/js/2.b78ca2b3.chunk.js.LICENSE.txt",
+    "static/media/p1.fbb84c11.jpg": "/TBB/static/media/p1.fbb84c11.jpg",
+    "static/media/p2.63d85a6d.jpg": "/TBB/static/media/p2.63d85a6d.jpg",
+    "static/media/p3.abad1807.JPG": "/TBB/static/media/p3.abad1807.JPG",
+    "static/media/p4.0ac50b75.jpg": "/TBB/static/media/p4.0ac50b75.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85fcf99e.js",
+    "static/js/2.b78ca2b3.chunk.js",
+    "static/css/main.6b4f7fb4.chunk.css",
+    "static/js/main.b056ea37.chunk.js"
+  ]
+}

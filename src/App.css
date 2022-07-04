@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+  width: 100vmax;
+  display: block;
+  min-height: 100%;
+  background-color: white;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+@media only screen and (max-width: 1300px) {
+  .App {
+    text-align: center;
+    width: 100vmax;
+    overflow-x: visible;
+    background-color: white;
+  }
+}
